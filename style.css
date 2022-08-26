@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to top, #CCAADD,pink);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Kanit";
+    margin-left: 50px;
+}
+#head{
+    color: #FFFFFF;
+    font-family: "Press Start 2P"
+    
+}
+p{
+    font-size: 20px;
+    
+}
+div{
+    font-size: 25px;
+}
+footer{
+    font-size: 5px;
+}

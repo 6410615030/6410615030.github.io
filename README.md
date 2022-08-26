@@ -2,3 +2,5 @@
 ## Assignment01 CN331
 ### Introduce myself
 ![profiePicture](myPicture.jpg)
+
+**name: ** Natiphon Chanphet

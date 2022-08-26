@@ -5,9 +5,9 @@
 <img src="myPicture.jpg" width="500" align="right" />
 
 
-**name:** Natiphon Chanphet
+**Name:** Natiphon Chanphet
 
-**nickname:** Pang
+**Nickname:** Pang
 
 **Student ID:** 6410615030
 
@@ -19,4 +19,5 @@
 
 ### Mycontact
 **Mobile:** 080-069-7149
+**My Email:** <a href="mailto:natiphon.cha@dome.tu.ac.th">
 

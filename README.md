@@ -13,16 +13,12 @@
 
 **Birthday:** 16 <sup>th</sup>  October 2002
 
-**My interest** 
+**Education:** second-year student, Faculty of Engineering, Thammasat University
+
+**My interest:** 
 - cats
 - music
 - movies
-
-**Education:** second-year student, Faculty of Engineering, Thammasat University
-
-
-
-
 
 ### Mycontact
 **Mobile:** 080-069-7149

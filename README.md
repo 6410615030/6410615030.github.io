@@ -2,7 +2,7 @@
 ## Assignment01 CN331
 ### Introduce myself
 
-<img src="myPicture.jpg" width="500" align="center" />
+<img src="myPicture.jpg" width="500" align="right" />
 
 
 **name:** Natiphon Chanphet

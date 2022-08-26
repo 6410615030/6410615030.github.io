@@ -3,4 +3,4 @@
 ### Introduce myself
 ![profiePicture](myPicture.jpg)
 
-**name: ** Natiphon Chanphet
+**name:** Natiphon Chanphet

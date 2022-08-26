@@ -1,8 +1,8 @@
 # 6410615030.github.io
 ## Assignment01 CN331
 ### Introduce myself
-![profiePicture](myPicture.jpg)
-<img src="myPicture.jpg" width="200" />
+
+<img src="myPicture.jpg" width="500" align="center" />
 
 
 **name:** Natiphon Chanphet

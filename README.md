@@ -19,5 +19,6 @@
 
 ### Mycontact
 **Mobile:** 080-069-7149
-**My Email:** <a href="mailto:natiphon.cha@dome.tu.ac.th">
+
+**My Email:** <a href="mailto:natiphon.cha@dome.tu.ac.th">natiphon.cha@dome.tu.ac.th</a>
 

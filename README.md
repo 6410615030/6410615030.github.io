@@ -2,6 +2,7 @@
 ## Assignment01 CN331
 ### Introduce myself
 ![profiePicture](myPicture.jpg)
+<img src="myPicture.jpg" width="200" />
 
 
 **name:** Natiphon Chanphet

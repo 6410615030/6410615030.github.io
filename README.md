@@ -11,7 +11,7 @@
 
 **Birthday:** 16 <sup>th</sup>  October 2002
 
--Faculty of Engineering, Thammasat University
+- Faculty of Engineering, Thammasat University
 
 
 
